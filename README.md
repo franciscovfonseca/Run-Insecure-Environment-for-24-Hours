@@ -5,13 +5,33 @@
 <br>
 
 <p align="center">
-<img width="900" src="https://github.com/user-attachments/assets/b542fab4-7205-44b5-828a-e8a7d53d20af" alt="Banner"/>
+<img width="900" src="https://github.com/user-attachments/assets/e874e594-c69f-439f-90e7-d588ba7841c8" alt="Banner"/>
 
-<br />
+<br>
 
-<br />
+<br>
 
-➡️ The following table shows the measurements taken from the insecure environment after the initial 24 hour observation period:
+<br>
+
+> The goal now is to Expose our Environment to Malicious Traffic for 24 hours in order to **Build 4 Attack Maps for**:
+>
+> 🔹 Malicious Inbound Flows for the **Network Security Groups**
+>
+> 🔹 Failed Authentication against **Linux VM** (SSH)
+> 
+> 🔹 Failed Authentication against **Windows WMs** (RDP / SMB / General Authentication Failures)
+> 
+> 🔹 Failed Authentication to the **Microsoft SQL Server** (inside our Windows VM)
+> 
+> 
+
+<br>
+
+<br>
+
+<br>
+
+➡️ The following table shows the measurements taken from the Insecure Environment after the initial 24 hour observation period:
 
 <br>
 
